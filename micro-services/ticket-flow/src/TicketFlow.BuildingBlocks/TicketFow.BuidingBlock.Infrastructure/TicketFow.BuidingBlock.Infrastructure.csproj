@@ -5,5 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+  <ItemGroup>
+    <ProjectReference Include="..\TicketFow.BuidingBlock.Application\TicketFow.BuidingBlock.Application.csproj" />
+  </ItemGroup>
 </Project>
+  
